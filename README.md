@@ -1,5 +1,5 @@
 # UnrealTuber-AI-TTS
-The development of the UnrealTuber application is taking too long. So, I have decided to release each module separately and independently to fast-track accessibility.
+The development of the UnrealTuber application is taking too long. So, I have decided to release each module separately and independently to fast-track accessibility. Find all available modules [here](https://github.com/stars/leromango/lists/unrealtuber).
 
 One of these modules is AI-TTS, which offers a unique feature allowing you to design AI characters, complete with distinct personalities and voices. These characters can be interacted with during your live streams at the simple press of a button. They respond in real-time, fully in character, with a natural-sounding voice.
 
