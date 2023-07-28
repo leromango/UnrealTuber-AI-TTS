@@ -1,0 +1,31 @@
+{
+    "WebSocket password from OBS: ": "",
+
+    "WebSocket port from OBS: ": "",
+
+    "Item name to be controlled in OBS: ": "",
+
+    "ElevenLab API Key: ": "",
+
+    "OpenAI API Key: ": "",
+
+    "Azure API Key: ": "",
+
+    "Azure API Region: ": "",
+
+    "ElevelLabs Voice ID: ": "",
+
+    "Voice Stability settings for ElevenLabs API: ": "",
+
+    "Voice Similarity settings for ElevenLabs API: ": "",
+
+    "Character personality: ": "",
+
+    "Key to activate the bot: ": "",
+
+    "Microphone device index: ": 0,
+
+    "Use Azure's speech recognition? (1 = yes, 0 = no): ": 0,
+
+    "If not using Azure, enter phrase time limit: ": 0
+}
